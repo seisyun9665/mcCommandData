@@ -1,0 +1,1 @@
+/give @p minecraft:ghast_tear 1 0 {display:{Name:"–œŠ´‚Ì‘³Žž‰J"},ench:[{id:16s,lvl:7s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:710788503l,UUIDMost:710788503l,Operation:0,AttributeName:"generic.maxHealth",Amount:8d,Slot:"mainhand"}]}

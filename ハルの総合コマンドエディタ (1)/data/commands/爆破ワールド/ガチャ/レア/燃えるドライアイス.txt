@@ -1,0 +1,1 @@
+/give @p minecraft:ice 1 0 {display:{Name:"燃えるドライアイス"},ench:[{id:18s,lvl:4s},{id:20s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:561227352l,UUIDMost:561227352l,Operation:0,AttributeName:"generic.maxHealth",Amount:-2d,Slot:"mainhand"}]}

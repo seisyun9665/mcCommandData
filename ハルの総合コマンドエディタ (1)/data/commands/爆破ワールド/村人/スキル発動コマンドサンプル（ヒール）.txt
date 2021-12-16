@@ -1,0 +1,2 @@
+scoreboard players set @a #heal 1 {SelectedItem:{id:"minecraft:enchanted_book",Damage:0s,tag:{display:{Name:"ƒq[ƒ‹"}}}}
+id‚ÆName‚Åw’è

@@ -1,0 +1,1 @@
+/give @p minecraft:potion 1 0 {display:{Name:"§r体力増強のポーションⅢ",Lore:["§710分間、体力を増強するポーション。","§7ハート6個分増強する。"]},CustomPotionEffects:[{Id:21b,Amplifier:2b,Duration:12000,ShowParticles:1b}],CustomPotionColor:16744448}

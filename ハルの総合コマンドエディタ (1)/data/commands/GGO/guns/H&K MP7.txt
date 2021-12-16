@@ -1,0 +1,1 @@
+/give @p minecraft:golden_hoe 1 0 {display:{Name:"Åòr   H&K MP7 "},Unbreakable:1b,AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1929891898l,UUIDMost:1929891898l,Operation:2,AttributeName:"generic.movementSpeed",Amount:-0.2d,Slot:"mainhand"}]}

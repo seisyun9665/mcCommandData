@@ -1,0 +1,1 @@
+/summon zombie ~0 ~0 ~0 {CustomName:"í«ê’é“",Attributes:[{Name:"generic.movementSpeed",Base:0.5d},{Name:"generic.attackDamage",Base:0d},{Name:"generic.followRange",Base:100d}],IsBaby:1b,Passengers:[{id:"tnt",Fuse:127b},{id:"tnt",Fuse:127b},{id:"tnt",Fuse:127b},{id:"tnt",Fuse:127b},{id:"tnt",Fuse:127b},{id:"tnt",Fuse:127b}]}

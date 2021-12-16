@@ -1,0 +1,1 @@
+/give @p minecraft:end_crystal 1 0 {display:{Name:"˜dw—Ö‚Ì•óÎ"},ench:[{id:35s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1690249270l,UUIDMost:1690249270l,Operation:0,AttributeName:"generic.armor",Amount:1d,Slot:"offhand"},{Name:"HaruEditor",UUIDLeast:1690249270l,UUIDMost:1690249270l,Operation:0,AttributeName:"generic.armorToughness",Amount:1d,Slot:"offhand"}]}

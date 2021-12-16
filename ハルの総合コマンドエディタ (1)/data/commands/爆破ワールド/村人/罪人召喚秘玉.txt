@@ -1,0 +1,1 @@
+/give @p minecraft:spawn_egg 1 0 {display:{Name:"§4§l罪人召喚の秘玉",Lore:["使用すると罪人を召喚できる"]},EntityTag:{Team:"zombie",CustomName:"ZAI",Silent:1b,NoAI:1b,id:"silverfish"}}

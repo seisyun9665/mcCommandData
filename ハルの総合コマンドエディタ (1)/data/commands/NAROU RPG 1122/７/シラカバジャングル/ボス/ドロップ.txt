@@ -1,0 +1,1 @@
+/give @p minecraft:sugar 1 0 {display:{Name:"シラカバの外粉"}}

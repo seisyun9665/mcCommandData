@@ -1,0 +1,1 @@
+/give @p minecraft:fermented_spider_eye 1 0 {display:{Name:"’wåŠv"}}

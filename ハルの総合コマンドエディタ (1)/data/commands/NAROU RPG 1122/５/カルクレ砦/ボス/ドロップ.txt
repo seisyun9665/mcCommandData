@@ -1,0 +1,1 @@
+/give @p minecraft:banner 1 0 {display:{Name:"ƒJƒ‹ƒNƒŒ‚ÌŠø"}}

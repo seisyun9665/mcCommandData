@@ -1,0 +1,1 @@
+/give @p minecraft:stone_axe 1 0 {display:{Name:"ÅòrêŒÇÃïÄ"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1389110373l,UUIDMost:1389110373l,Operation:0,AttributeName:"generic.attackDamage",Amount:8d,Slot:"mainhand"},{Name:"HaruEditor",UUIDLeast:1389110373l,UUIDMost:1389110373l,Operation:0,AttributeName:"generic.attackSpeed",Amount:-3.2d,Slot:"mainhand"}]}

@@ -1,0 +1,1 @@
+/give @p minecraft:slime_ball 1 0 {display:{Name:"スライムジェル"}}

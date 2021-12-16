@@ -1,0 +1,1 @@
+/give @p minecraft:bow 1 0 {display:{Name:"ƒ†ƒ~ƒRƒTƒ“"},ench:[{id:34s,lvl:1s},{id:49s,lvl:1s},{id:50s,lvl:1s},{id:51s,lvl:1s},{id:70s,lvl:1s},{id:48s,lvl:1s}]}

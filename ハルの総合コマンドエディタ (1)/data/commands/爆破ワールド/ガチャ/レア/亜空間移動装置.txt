@@ -1,0 +1,1 @@
+/give @p minecraft:structure_void 1 0 {display:{Name:"ˆŸ‹óŠÔˆÚ“®‘•’u"},ench:[{id:16s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1247895372l,UUIDMost:1247895372l,Operation:0,AttributeName:"generic.movementSpeed",Amount:1000d},{Name:"HaruEditor",UUIDLeast:1247895372l,UUIDMost:1247895372l,Operation:0,AttributeName:"generic.maxHealth",Amount:-100d}]}

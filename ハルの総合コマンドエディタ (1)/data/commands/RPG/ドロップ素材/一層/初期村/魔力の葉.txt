@@ -1,0 +1,1 @@
+/give @p minecraft:leaves 1 1 {display:{Name:"–‚—Í‚Ì—t"}}

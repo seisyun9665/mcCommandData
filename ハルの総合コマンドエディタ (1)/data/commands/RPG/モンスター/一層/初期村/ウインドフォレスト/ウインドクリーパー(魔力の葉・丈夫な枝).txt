@@ -1,0 +1,1 @@
+/summon creeper ~0 ~0 ~0 {CustomName:"ウインドクリーパー",Health:16f,Attributes:[{Name:"generic.maxHealth",Base:16d}],HandItems:[{tag:{display:{Name:"丈夫な枝"}},id:"minecraft:stick",Count:1b,Damage:0s},{tag:{display:{Name:"魔力の葉"}},id:"minecraft:leaves",Count:1b,Damage:1s}],HandDropChances:[1f,1f]}

@@ -1,0 +1,1 @@
+/give @p minecraft:spawn_egg 1 0 {display:{Name:"§6エンドロール",Lore:["§7右クリックで使用","§7エンドロールを見ることができる。"]},EntityTag:{CustomName:"ending",DeathTime:1s,Silent:1b,Health:1f,Attributes:[{Name:"generic.maxHealth",Base:1d}],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:20,ShowParticles:0b}],id:"silverfish"}}

@@ -1,0 +1,1 @@
+/give @p minecraft:end_crystal 1 0 {display:{Name:"menu crystal",Lore:["右クリックで使用。","シフトで選択。"]},HideFlags:16,CanPlaceOn:["minecraft:water"]}

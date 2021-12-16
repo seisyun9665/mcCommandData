@@ -1,0 +1,1 @@
+/give @p minecraft:ghast_tear 1 0 {display:{Name:"§c§l"地獄の炎終",Lore:["地獄の炎終§r[じごくのえんつい]","§c§l「地獄の遣い」§r討伐の証"]},ench:[{id:51s,lvl:0s},{id:20s,lvl:5s}]}

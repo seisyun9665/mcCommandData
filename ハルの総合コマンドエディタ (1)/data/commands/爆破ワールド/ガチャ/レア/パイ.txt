@@ -1,0 +1,1 @@
+/give @p minecraft:pumpkin_pie 2 0 {display:{Name:"ƒpƒC"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:214633547l,UUIDMost:214633547l,Operation:1,AttributeName:"generic.maxHealth",Amount:3d,Slot:"offhand"}]}

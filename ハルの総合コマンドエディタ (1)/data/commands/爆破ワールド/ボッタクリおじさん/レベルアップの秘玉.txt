@@ -1,0 +1,1 @@
+/give @p minecraft:spawn_egg 1 0 {display:{Name:"§1§lレベルアップの秘玉",Lore:["§7限界を超えた力が手に入る"]},ench:[{id:51s,lvl:0s}],HideFlags:1,EntityTag:{Team:"zombie",CustomName:"lv",DeathTime:0s,Silent:1b,Health:1f,Attributes:[{Name:"generic.maxHealth",Base:1d}],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:20,ShowParticles:0b}],id:"silverfish"}}

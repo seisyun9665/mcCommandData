@@ -1,0 +1,1 @@
+/give @p minecraft:beetroot_seeds 1 0 {display:{Name:"シラカバルネイン"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1716139731l,UUIDMost:1716139731l,Operation:1,AttributeName:"generic.movementSpeed",Amount:-0.1d,Slot:"offhand"},{Name:"HaruEditor",UUIDLeast:1716139731l,UUIDMost:1716139731l,Operation:0,AttributeName:"generic.attackDamage",Amount:7d,Slot:"offhand"}]}

@@ -1,0 +1,1 @@
+/give @p minecraft:diamond_hoe 1 0 {display:{Name:"Åòb   PGM Ultima Ratio Hecate II "},Unbreakable:1b,AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:2010535394l,UUIDMost:2010535394l,Operation:2,AttributeName:"generic.movementSpeed",Amount:-0.35d,Slot:"mainhand"}],HideFlags:4}

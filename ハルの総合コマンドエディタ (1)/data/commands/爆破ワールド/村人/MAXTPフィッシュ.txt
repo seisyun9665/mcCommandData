@@ -1,0 +1,1 @@
+/summon silverfish ~0 ~0 ~0 {Team="zombie",CustomName:"MAXTP",Silent:1b,NoAI:1b,ActiveEffects:[{Id:14b,Amplifier:1b,Duration:1000000,ShowParticles:0b}]}

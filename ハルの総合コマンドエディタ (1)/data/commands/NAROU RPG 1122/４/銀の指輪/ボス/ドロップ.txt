@@ -1,0 +1,1 @@
+/give @p minecraft:gold_nugget 1 0 {display:{Name:"ƒAƒƒWƒ‹ƒg‚ÌŒ‡•Ğ"}}

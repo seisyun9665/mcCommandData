@@ -1,0 +1,1 @@
+/give @p minecraft:diamond_boots 1 0 {display:{Name:"—š‚¯‚éŽè‘Ü",color:4194368},ench:[{id:2s,lvl:4s},{id:4s,lvl:4s},{id:1s,lvl:2s},{id:0s,lvl:4s},{id:8s,lvl:4s},{id:9s,lvl:2s}]}

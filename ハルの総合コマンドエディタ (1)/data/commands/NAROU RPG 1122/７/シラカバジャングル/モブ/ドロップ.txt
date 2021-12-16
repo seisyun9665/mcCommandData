@@ -1,0 +1,1 @@
+/give @p minecraft:string 1 0 {display:{Name:"シカラバストリング"}}

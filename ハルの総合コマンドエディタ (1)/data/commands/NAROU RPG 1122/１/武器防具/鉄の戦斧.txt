@@ -1,0 +1,1 @@
+/give @p minecraft:iron_axe 1 0 {display:{Name:"˜r“S‚Ìí•€"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:951660349l,UUIDMost:951660349l,Operation:0,AttributeName:"generic.attackDamage",Amount:10d,Slot:"mainhand"},{Name:"HaruEditor",UUIDLeast:951660349l,UUIDMost:951660349l,Operation:0,AttributeName:"generic.attackSpeed",Amount:-3.2d,Slot:"mainhand"}]}

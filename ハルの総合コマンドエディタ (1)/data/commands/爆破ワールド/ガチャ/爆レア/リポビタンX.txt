@@ -1,0 +1,1 @@
+/give @p minecraft:glass_bottle 1 0 {display:{Name:"˜d˜lƒŠƒ|ƒrƒ^ƒ“X"},ench:[{id:17s,lvl:3s},{id:18s,lvl:3s},{id:19s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:249858017l,UUIDMost:249858017l,Operation:1,AttributeName:"generic.maxHealth",Amount:1d,Slot:"offhand"}]}

@@ -1,0 +1,1 @@
+/give @p minecraft:leather 1 0 {display:{Name:"•…‚Á‚½Šv"}}

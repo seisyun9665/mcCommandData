@@ -1,0 +1,1 @@
+/give @p minecraft:chain_command_block 1 0 {display:{Name:"§f§lダメージカウンター改",Lore:["§rインベントリに入れて使用する。","§ｒ攻撃時に与えたダメージを","§r表示する機械。","§r敵の防御力も加味された数字","§ｒが出てくる。","§ｒ0.1刻みで表示する高性能モデル。"]},ench:[{id:0s,lvl:0s}],HideFlags:1}

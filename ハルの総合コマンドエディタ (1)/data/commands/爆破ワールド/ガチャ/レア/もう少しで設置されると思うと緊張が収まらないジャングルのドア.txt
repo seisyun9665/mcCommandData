@@ -1,0 +1,1 @@
+/give @p minecraft:jungle_door 1 0 {display:{Name:"もう少しで設置されると思うと緊張が収まらないジャングルのドア"},ench:[{id:19s,lvl:3s},{id:16s,lvl:4s},{id:17s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1071349951l,UUIDMost:1071349951l,Operation:0,AttributeName:"generic.attackDamage",Amount:1.3d,Slot:"mainhand"}]}

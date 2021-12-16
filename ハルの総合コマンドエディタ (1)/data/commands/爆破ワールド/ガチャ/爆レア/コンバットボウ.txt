@@ -1,0 +1,1 @@
+/give @p minecraft:bow 1 0 {display:{Name:"§l§fコンバットボウ"},ench:[{id:16s,lvl:3s},{id:49s,lvl:3s},{id:34s,lvl:2s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1927010361l,UUIDMost:1927010361l,Operation:0,AttributeName:"generic.movementSpeed",Amount:0.08d,Slot:"mainhand"}]}

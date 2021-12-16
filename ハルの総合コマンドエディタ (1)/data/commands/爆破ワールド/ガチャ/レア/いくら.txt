@@ -1,0 +1,1 @@
+/give @p minecraft:redstone 1 0 {display:{Name:"‚¢‚­‚ç"},ench:[{id:19s,lvl:5s}]}

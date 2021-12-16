@@ -1,0 +1,1 @@
+/give @p minecraft:golden_pickaxe 1 0 {display:{Name:"全てがピッケルになる"},ench:[{id:32s,lvl:10s},{id:34s,lvl:3s},{id:35s,lvl:3s},{id:16s,lvl:5s}]}

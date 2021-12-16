@@ -1,0 +1,1 @@
+/give @p minecraft:fish 1 3 {display:{Name:"ゴールデン・ヘッド"},ench:[{id:18s,lvl:2s},{id:19s,lvl:2s}]}

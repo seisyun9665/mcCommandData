@@ -1,0 +1,1 @@
+/give @p minecraft:diamond_sword 1 0 {display:{Name:"˜f˜lƒoƒjƒ‰‚Ì–ÒˆĞ"},ench:[{id:16s,lvl:5s},{id:19s,lvl:2s},{id:20s,lvl:2s},{id:34s,lvl:3s},{id:70s,lvl:1s}]}

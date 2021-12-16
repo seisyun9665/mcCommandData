@@ -1,0 +1,1 @@
+/give @p minecraft:lead 1 0 {display:{Name:"‰Š‚Ìƒ€ƒ`"},ench:[{id:20s,lvl:3s},{id:16s,lvl:2s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:393054431l,UUIDMost:393054431l,Operation:0,AttributeName:"generic.attackSpeed",Amount:0.5d}]}

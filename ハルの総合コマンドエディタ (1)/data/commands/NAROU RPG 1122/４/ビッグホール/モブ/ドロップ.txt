@@ -1,0 +1,1 @@
+/give @p minecraft:dropper 1 0 {display:{Name:"ƒz[ƒ‹ƒ}ƒ“‚ÌŠj"}}

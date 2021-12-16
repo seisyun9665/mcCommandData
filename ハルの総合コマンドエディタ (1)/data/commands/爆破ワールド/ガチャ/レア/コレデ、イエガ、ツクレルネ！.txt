@@ -1,0 +1,1 @@
+/give @p minecraft:obsidian 16 0 {display:{Name:"コレデ、イエガ、ツクレルネ！"},ench:[{id:34s,lvl:10s},{id:34s,lvl:10s},{id:34s,lvl:10s},{id:34s,lvl:10s},{id:34s,lvl:10s}]}

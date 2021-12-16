@@ -1,0 +1,1 @@
+/give @p minecraft:diamond 1 0 {display:{Name:"§b§l§oクレイジー・ダイヤモンド"},ench:[{id:17s,lvl:8s}]}

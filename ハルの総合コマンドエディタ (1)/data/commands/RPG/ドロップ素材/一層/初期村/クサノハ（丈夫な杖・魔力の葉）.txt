@@ -1,0 +1,1 @@
+/give @p minecraft:red_flower 1 8 {display:{Name:"ƒNƒTƒmƒn"},ench:[{id:51s,lvl:0s}],HideFlags:1}

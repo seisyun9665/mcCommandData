@@ -1,0 +1,3 @@
+/give @p minecraft:diamond_axe 1 0 {display:{Name:"斧使い用斧"},ench:[{id:34s,lvl:10s}],CanDestroy:["minecraft:flowing_water"]}
+斧使いの武器
+flowing_water 破壊可能

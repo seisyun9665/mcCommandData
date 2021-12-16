@@ -1,0 +1,1 @@
+/summon zombie ~0 ~0 ~0 {CustomName:"ƒŠƒBƒ]ƒ“ƒr",Health:10f,Attributes:[{Name:"generic.maxHealth",Base:10d}],ArmorItems:[{},{},{id:"minecraft:experience_bottle",Count:1b,Damage:0s},{}],ArmorDropChances:[0f,0f,1f,0f]}

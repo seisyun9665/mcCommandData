@@ -1,0 +1,1 @@
+/give @p minecraft:bow 1 0 {display:{Name:"‹|Žg‚¢—p‹|"},CanPlaceOn:["minecraft:water","minecraft:lava"]}

@@ -1,0 +1,1 @@
+/give @p minecraft:diamond_hoe 1 0 {display:{Lore:["˜r˜7‘Ï‹v’l:10000"]},Unbreakable:1b}

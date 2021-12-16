@@ -1,0 +1,1 @@
+/summon bat ~0 ~0 ~0 {Silent:1b,Health:0f,Attributes:[{Name:"generic.maxHealth",Base:0d}],ActiveEffects:[{Id:14b,Amplifier:0b,Duration:100,ShowParticles:0b},{Id:20b,Amplifier:0b,Duration:100,ShowParticles:0b}]}

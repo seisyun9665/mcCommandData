@@ -1,0 +1,1 @@
+/give @p minecraft:feather 1 0 {display:{Name:"˜ü–‚Ì•‰H"},ench:[{id:51s,lvl:0s}]}

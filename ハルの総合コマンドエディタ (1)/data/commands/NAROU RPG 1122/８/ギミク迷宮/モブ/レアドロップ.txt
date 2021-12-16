@@ -1,0 +1,1 @@
+/give @p minecraft:clock 1 0 {display:{Name:"ギミクロック",color:16711680},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:844423706l,UUIDMost:844423706l,Operation:0,AttributeName:"generic.maxHealth",Amount:4d,Slot:"offhand"},{Name:"HaruEditor",UUIDLeast:844423706l,UUIDMost:844423706l,Operation:0,AttributeName:"generic.armor",Amount:4d,Slot:"offhand"}]}

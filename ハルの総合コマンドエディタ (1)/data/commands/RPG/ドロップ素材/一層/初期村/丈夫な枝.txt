@@ -1,0 +1,1 @@
+/give @p minecraft:stick 1 0 {display:{Name:"ä•v‚È}"}}

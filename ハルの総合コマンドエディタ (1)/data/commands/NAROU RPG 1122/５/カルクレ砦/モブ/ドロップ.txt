@@ -1,0 +1,1 @@
+/give @p minecraft:bone_block 1 0 {display:{Name:"ƒJƒ‹ƒNƒŒ‚Ì“ª"}}

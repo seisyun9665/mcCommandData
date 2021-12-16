@@ -1,0 +1,1 @@
+/give @p minecraft:bow 1 0 {display:{Name:"˜rM3 Short Burst"},Unbreakable:1b,ench:[{id:51s,lvl:1s}]}

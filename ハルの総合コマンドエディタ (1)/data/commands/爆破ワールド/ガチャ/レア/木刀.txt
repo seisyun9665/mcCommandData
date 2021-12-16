@@ -1,0 +1,1 @@
+/give @p minecraft:wooden_sword 1 0 {display:{Name:"˜f˜o–Ø“"},ench:[{id:34s,lvl:3s},{id:17s,lvl:3s},{id:17s,lvl:3s}]}

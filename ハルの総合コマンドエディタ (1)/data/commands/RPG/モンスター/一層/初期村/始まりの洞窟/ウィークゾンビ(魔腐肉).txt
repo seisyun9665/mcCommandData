@@ -1,0 +1,1 @@
+/summon zombie ~0 ~0 ~0 {CustomName:"ウィークゾンビ",Health:13f,Attributes:[{Name:"generic.maxHealth",Base:13d},{Name:"generic.movementSpeed",Base:0.2d},{Name:"generic.attackDamage",Base:2d},{Name:"zombie.spawnReinforcements",Base:0d}],ArmorItems:[{},{},{tag:{display:{Name:"魔腐肉"}},id:"minecraft:rotten_flesh",Count:2b,Damage:0s},{}],ArmorDropChances:[0f,0f,0.7f,0f],IsBaby:1b}

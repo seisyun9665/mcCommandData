@@ -1,0 +1,1 @@
+/give @p minecraft:potion 1 0 {display:{Name:"§r守りのポーションⅠ",Lore:["§710分間、防御力が上昇するポーション。","§7ダメージを20%軽減する。"]},CustomPotionEffects:[{Id:11b,Amplifier:0b,Duration:12000,ShowParticles:1b}],CustomPotionColor:33023}

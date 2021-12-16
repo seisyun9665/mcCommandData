@@ -1,0 +1,1 @@
+/give @p minecraft:potion 1 0 {display:{Name:"§r再生のポーションⅢ",Lore:["§7治癒力を高めて徐々に体力を回復するポーション。","§7ハート20個分回復する。"]},CustomPotionEffects:[{Id:10b,Amplifier:0b,Duration:4050,ShowParticles:1b}],CustomPotionColor:16744703}

@@ -1,0 +1,1 @@
+/give @p minecraft:gold 1 0 {display:{Name:"ƒiƒŠ‹ài‘fŞj"},ench:[{id:51s,lvl:0s},{id:19s,lvl:7s},{id:20s,lvl:7s},{id:16s,lvl:7s},{id:0s,lvl:7s},{id:1s,lvl:7s},{id:3s,lvl:7s},{id:4s,lvl:7s}]}

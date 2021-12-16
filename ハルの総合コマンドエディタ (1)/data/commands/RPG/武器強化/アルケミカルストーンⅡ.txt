@@ -1,0 +1,1 @@
+/give @p minecraft:diamond 1 0 {display:{Name:"§dアルケミカルストーンⅡ",Lore:["§r手に持った武器に LV 2 のエンチャントを","§r施すことができる魔石","","§7使用方法:"," §7オフハンドに持ち"," §7一定時間スニーク"]},Unbreakable:1b,ench:[{id:51s,lvl:0s}],HideFlags:1}

@@ -1,0 +1,2 @@
+/give @p minecraft:wooden_sword 1 0 {display:{Name:"§r複合革木剣"},ench:[{id:34s,lvl:4s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:2063820930l,UUIDMost:2063820930l,Operation:0,AttributeName:"generic.attackSpeed",Amount:-2.4d,Slot:"mainhand"},{Name:"HaruEditor",UUIDLeast:2063820930l,UUIDMost:2063820930l,Operation:0,AttributeName:"generic.attackDamage",Amount:6d,Slot:"mainhand"}]}
+コボルトの洞窟ボス素材武器

@@ -1,0 +1,1 @@
+/give @p minecraft:potion 1 0 {display:{Name:"§r怪力のポーションⅡ",Lore:["§710分間、攻撃力が上昇するポーション。","§76ダメージ分上昇する。"]},CustomPotionEffects:[{Id:5b,Amplifier:1b,Duration:12000,ShowParticles:1b}],CustomPotionColor:16711808}

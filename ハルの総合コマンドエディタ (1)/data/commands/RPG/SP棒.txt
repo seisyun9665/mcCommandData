@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick 1 0 {display:{Name:"§a§lSP棒",Lore:["右クリックで使用","SPの振り分けができるぞ！"]},Unbreakable:1b,ench:[{id:34s,lvl:0s}],HideFlags:5}

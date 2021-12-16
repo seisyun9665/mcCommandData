@@ -1,0 +1,1 @@
+/give @p minecraft:prismarine_crystals 1 0 {display:{Name:"¹“i‚ÌŒ‹»"},ench:[{id:51s,lvl:0s}]}

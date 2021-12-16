@@ -1,0 +1,1 @@
+/summon slime ~0 ~0 ~0 {CustomName:"モイスチャースライム",Health:20f,Attributes:[{Name:"generic.maxHealth",Base:20d},{Name:"generic.attackDamage",Base:3d}],ArmorItems:[{},{},{tag:{display:{Name:"スライムジェル"}},id:"minecraft:slime_ball",Count:1b,Damage:0s},{}],ArmorDropChances:[0f,0f,0.5f,0f],Size:2}

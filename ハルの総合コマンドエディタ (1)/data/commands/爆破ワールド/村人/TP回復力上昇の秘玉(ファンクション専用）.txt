@@ -1,0 +1,3 @@
+/give @p minecraft:spawn_egg 1 0 {display:{Name:"§e§lTP自然回復上昇の秘玉",Lore:["§r使用すると§b§lTP回復速度§rが§50.1秒§r上昇する","（最小２秒まで短縮）"]},EntityTag:{CustomName:"tphealtimelv1",Silent:1b,ActiveEffects:[{Id:14b,Amplifier:1b,Duration:100000,ShowParticles:0b}],id:"endermite"}}
+tphealtimelv1とエンティティ：エンダーマイト
+を感知して使用

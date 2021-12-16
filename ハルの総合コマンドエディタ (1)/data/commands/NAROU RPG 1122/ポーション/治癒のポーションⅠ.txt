@@ -1,0 +1,1 @@
+/give @p minecraft:potion 1 0 {display:{Name:"§r治癒のポーションⅠ",Lore:["§7一瞬で傷を回復するポーション。","§7ハート4個分回復する。"]},CustomPotionEffects:[{Id:6b,Amplifier:1b,Duration:0,ShowParticles:1b}],CustomPotionColor:16711935}

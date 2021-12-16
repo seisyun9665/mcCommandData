@@ -1,0 +1,1 @@
+/give @p minecraft:lava_bucket 1 0 {display:{Name:"Åòcónä‚"},ench:[{id:20s,lvl:100s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1606006249l,UUIDMost:1606006249l,Operation:0,AttributeName:"generic.attackDamage",Amount:3d,Slot:"mainhand"},{Name:"HaruEditor",UUIDLeast:1606006249l,UUIDMost:1606006249l,Operation:0,AttributeName:"generic.maxHealth",Amount:-6d,Slot:"mainhand"}]}

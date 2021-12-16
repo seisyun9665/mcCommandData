@@ -1,0 +1,1 @@
+/give @p minecraft:emerald 1 0 {display:{Name:"˜r1ƒS[ƒ‹ƒh"}}

@@ -1,0 +1,2 @@
+/give @p minecraft:dye 1 10 {display:{Name:"§r風速の秘石"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1053402834l,UUIDMost:1053402834l,Operation:1,AttributeName:"generic.attackSpeed",Amount:0.1d,Slot:"offhand"},{Name:"HaruEditor",UUIDLeast:1053402834l,UUIDMost:1053402834l,Operation:1,AttributeName:"generic.movementSpeed",Amount:0.05d,Slot:"offhand"}]}
+腐者の森ボスアクセサリー

@@ -1,0 +1,1 @@
+/give @p minecraft:stone_hoe 1 0 {display:{Name:"˜dƒo[ƒ‹‚Ì‚æ‚¤‚È‚à‚Ì"},ench:[{id:16s,lvl:3s},{id:19s,lvl:1s},{id:34s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:790429963l,UUIDMost:790429963l,Operation:1,AttributeName:"generic.attackSpeed",Amount:-2.8d,Slot:"mainhand"}]}

@@ -1,0 +1,1 @@
+/give @p minecraft:end_crystal 1 0 {display:{Name:"§l§oTrade Crystal",Lore:["§aスニーク：選択","§c右クリック：決定"]}}

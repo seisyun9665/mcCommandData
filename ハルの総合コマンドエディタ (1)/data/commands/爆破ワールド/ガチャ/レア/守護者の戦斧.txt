@@ -1,0 +1,1 @@
+/give @p minecraft:diamond_axe 1 0 {display:{Name:"çŒìÒ‚Ìí•€"},ench:[{id:34s,lvl:3s},{id:16s,lvl:5s}]}

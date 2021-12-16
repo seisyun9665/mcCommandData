@@ -1,0 +1,1 @@
+/give @p minecraft:diamond_pickaxe 1 0 {display:{Name:"§aラヴァクリスタルピッケル"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1660446235l,UUIDMost:1660446235l,Operation:0,AttributeName:"generic.attackDamage",Amount:20d,Slot:"mainhand"},{Name:"HaruEditor",UUIDLeast:1660446235l,UUIDMost:1660446235l,Operation:0,AttributeName:"generic.attackSpeed",Amount:-3.4d,Slot:"mainhand"}]}

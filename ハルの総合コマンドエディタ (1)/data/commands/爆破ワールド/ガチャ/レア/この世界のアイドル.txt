@@ -1,0 +1,1 @@
+/give @p minecraft:acacia_boat 1 0 {display:{Name:"Ç±ÇÃê¢äEÇÃÉAÉCÉhÉã"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1809708173l,UUIDMost:1809708173l,Operation:0,AttributeName:"generic.knockbackResistance",Amount:0.6d,Slot:"offhand"},{Name:"HaruEditor",UUIDLeast:1809708173l,UUIDMost:1809708173l,Operation:1,AttributeName:"generic.movementSpeed",Amount:0.1d,Slot:"offhand"}]}

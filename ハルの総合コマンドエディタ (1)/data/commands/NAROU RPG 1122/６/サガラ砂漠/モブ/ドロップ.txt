@@ -1,0 +1,1 @@
+/give @p minecraft:dye 1 3 {display:{Name:"•»"}}

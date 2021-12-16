@@ -1,0 +1,1 @@
+/give @p minecraft:spawn_egg 1 0 {display:{Name:"§5§l天命の秘玉",Lore:["使用すると......！"]},EntityTag:{Team:"zombie",CustomName:"IBENTO",Silent:1b,NoAI:1b,id:"silverfish"}}

@@ -1,0 +1,1 @@
+/give @p minecraft:firework_charge 1 0 {display:{Name:"§r§a吸魔石",Lore:["§7オフハンドに持って右クリックで使用","§7手に持った魔具化されたアイテムの","§7魔具特性を取り除く。"]},ench:[{id:0s,lvl:0s}],HideFlags:1}

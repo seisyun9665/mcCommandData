@@ -1,0 +1,1 @@
+/give @p minecraft:command_block 1 0 {display:{Name:"§l§oDefault Trade",Lore:["§r右クリックで使用","§r初期のトレードを行う"]},ench:[{id:0s,lvl:0s}],HideFlags:17,CanPlaceOn:["minecraft:air"]}

@@ -1,0 +1,1 @@
+/give @p minecraft:shield 1 0 {display:{Name:"§5§l封印の大盾",Lore:["§5力が封印されている...","","§7オフハンドに持ったとき:"," §9耐性 +1"]},ench:[{id:34s,lvl:2s},{id:70s,lvl:1s}],HideFlags:32,BlockEntityTag:{Base:4,Patterns:[{Color:6,Pattern:"mr"},{Color:13,Pattern:"sc"},{Color:14,Pattern:"gru"},{Color:6,Pattern:"gra"},{Color:15,Pattern:"flo"}]}}

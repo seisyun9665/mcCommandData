@@ -1,0 +1,1 @@
+/give @p minecraft:golden_axe 1 0 {display:{Name:"•®“{‚Ìí•€"},Unbreakable:1b,ench:[{id:51s,lvl:0s}]}

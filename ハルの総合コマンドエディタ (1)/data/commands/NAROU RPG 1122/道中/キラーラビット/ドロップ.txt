@@ -1,0 +1,1 @@
+/give @p minecraft:rabbit_foot 1 0 {display:{Name:"ŒÅ‚¢‘«Šv"}}

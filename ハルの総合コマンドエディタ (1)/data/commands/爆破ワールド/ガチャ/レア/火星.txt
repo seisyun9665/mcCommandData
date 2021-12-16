@@ -1,0 +1,1 @@
+/give @p minecraft:magma_cream 1 0 {display:{Name:"‰Î¯"},ench:[{id:20s,lvl:2s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1230229996l,UUIDMost:1230229996l,Operation:1,AttributeName:"generic.movementSpeed",Amount:0.3d,Slot:"mainhand"}]}

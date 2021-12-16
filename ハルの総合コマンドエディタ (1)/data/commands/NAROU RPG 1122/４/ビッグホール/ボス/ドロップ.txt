@@ -1,0 +1,1 @@
+/give @p minecraft:structure_block 1 0 {display:{Name:"ホールブロック"}}

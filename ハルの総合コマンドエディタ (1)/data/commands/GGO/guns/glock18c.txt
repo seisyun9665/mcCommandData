@@ -1,0 +1,1 @@
+/give @p minecraft:iron_hoe 1 0 {display:{Name:"Åòf   glock18c "},Unbreakable:1b,AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:348455450l,UUIDMost:348455450l,Operation:2,AttributeName:"generic.movementSpeed",Amount:-0.17d,Slot:"mainhand"}]}

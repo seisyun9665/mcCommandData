@@ -1,0 +1,1 @@
+/give @p minecraft:iron_ingot 1 0 {display:{Name:"T Medal"},ench:[{id:51s,lvl:0s}]}

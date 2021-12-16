@@ -1,0 +1,1 @@
+/give @p minecraft:stone_button 1 0 {display:{Name:"•—‚Ì–‚Î"},ench:[{id:34s,lvl:0s}],HideFlags:1}

@@ -1,0 +1,1 @@
+/summon creeper ~0 ~0 ~0 {CustomName:"˜b˜l…”š",Invulnerable:1b,powered:1b,ExplosionRadius:15b,Fuse:120s,ignited:1b}

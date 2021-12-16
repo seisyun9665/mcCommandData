@@ -1,0 +1,1 @@
+/give @p minecraft:rail 1 0 {display:{Name:"スーパーレール"},ench:[{id:17s,lvl:1s},{id:20s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:690177608l,UUIDMost:690177608l,Operation:0,AttributeName:"generic.attackDamage",Amount:3d,Slot:"mainhand"}]}

@@ -1,0 +1,1 @@
+/give @p minecraft:flint 1 0 {display:{Name:"§rダイヤの修復剤",Lore:["§7オフハンドで右クリック: 手に持った","§7ダイヤのツール・防具を修復"]}}

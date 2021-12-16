@@ -1,0 +1,1 @@
+/give @p minecraft:elytra 1 0 {display:{Name:"§a§lPlus Elytra！",Lore:["§7レベル制限 >>> 3","§7防御力 >>> 1","§a更に向こうへ！","§aプルス エリトラ！"]},Unbreakable:1b,ench:[{id:0s,lvl:6s},{id:1s,lvl:6s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:611237225l,UUIDMost:611237225l,Operation:0,AttributeName:"generic.armor",Amount:3d,Slot:"chest"}]}

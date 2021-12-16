@@ -1,0 +1,1 @@
+/give @p minecraft:wheat_seeds 1 0 {display:{Name:"•—‚ÌŽí"},ench:[{id:51s,lvl:0s}],HideFlags:1}

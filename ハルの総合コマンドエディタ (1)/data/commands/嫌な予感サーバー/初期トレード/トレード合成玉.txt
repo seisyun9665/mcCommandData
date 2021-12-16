@@ -1,0 +1,1 @@
+/give @p minecraft:spawn_egg 1 0 {display:{Name:"§lトレード合成玉",Lore:["§r右クリックで使用","§r2つのトレード(LV[§6§lMAX§r])を合成して","§r新たなトレードを生み出す"]},HideFlags:1}

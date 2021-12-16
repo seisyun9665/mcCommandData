@@ -1,0 +1,1 @@
+/give @p minecraft:leather_boots 1 0 {display:{Name:"‹›‚ÌƒqƒŒ",color:32960},ench:[{id:8s,lvl:15s}]}

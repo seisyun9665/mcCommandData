@@ -1,0 +1,1 @@
+/summon bat ~0 ~0 ~0 {Team:"zombie",CustomName:"bossman",Invulnerable:1b,PersistenceRequired:1b,Silent:1b,NoAI:1b,NoGravity:1b,Health:1f,Attributes:[{Name:"generic.maxHealth",Base:1d}],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:1000000,ShowParticles:1b}]}

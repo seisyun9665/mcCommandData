@@ -1,0 +1,1 @@
+/give @p minecraft:diamond 1 0 {display:{Name:"§d転移石: 商業都市コマシール",Lore:["§7右クリックで使用。","§7アイテムを一つ消費して商業都市","§7コマシールへ転移する。"]},ench:[{id:0s,lvl:0s}],HideFlags:1}

@@ -1,0 +1,1 @@
+/give @p minecraft:diamond 1 0 {display:{Name:"「どうせツルハシにするんだろ？」"},ench:[{id:19s,lvl:1s},{id:20s,lvl:1s},{id:16s,lvl:4s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:945862311l,UUIDMost:945862311l,Operation:0,AttributeName:"generic.armor",Amount:3d,Slot:"mainhand"}]}

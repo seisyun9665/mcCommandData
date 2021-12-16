@@ -1,0 +1,1 @@
+/give @p minecraft:tnt 1 0 {display:{Name:"T ƒuƒƒbƒN"},ench:[{id:51s,lvl:0s}],HideFlags:17,CanPlaceOn:["minecraft:air"]}

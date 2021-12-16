@@ -1,0 +1,1 @@
+/give @p minecraft:wooden_sword 16 0 {display:{Name:"ƒnƒYƒŒ‚Ì–ØŒ•"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1157954666l,UUIDMost:1157954666l,Operation:0,AttributeName:"generic.maxHealth",Amount:4d,Slot:"offhand"}]}

@@ -1,0 +1,1 @@
+/give @p minecraft:leather_boots 1 0 {display:{Name:"ÅòaïóÇÃÉuÅ[Éc",color:10075438},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1906613994l,UUIDMost:1906613994l,Operation:0,AttributeName:"generic.movementSpeed",Amount:0.01d,Slot:"feet"},{Name:"HaruEditor",UUIDLeast:1906613994l,UUIDMost:1906613994l,Operation:0,AttributeName:"generic.armor",Amount:3d,Slot:"feet"}]}

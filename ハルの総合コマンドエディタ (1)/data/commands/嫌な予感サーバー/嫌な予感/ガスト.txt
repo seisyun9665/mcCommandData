@@ -1,0 +1,1 @@
+/summon bat ~ ~ ~ {Silent:1b,Health:1f,Attributes:[{Name:"generic.maxHealth",Base:1d}],ActiveEffects:[{Id:14b,Amplifier:0b,Duration:100,ShowParticles:0b},{Id:20b,Amplifier:0b,Duration:100,ShowParticles:0b}],Passengers:[{CustomName:"§a§lガスト",ExplosionPower:4,id:"ghast"},{CustomName:"§a§lガスト",ExplosionPower:4,id:"ghast"},{CustomName:"§a§lガスト",ExplosionPower:4,id:"ghast"}]}

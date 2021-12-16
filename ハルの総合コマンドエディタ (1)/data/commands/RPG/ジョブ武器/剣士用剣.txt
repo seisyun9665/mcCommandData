@@ -1,0 +1,2 @@
+/give @p minecraft:diamond_sword 1 0 {display:{Name:"Œ•Žm—pŒ•"},ench:[{id:34s,lvl:10s}],CanDestroy:["minecraft:water"]}
+Œ•Žm—p‚ÌŒ•

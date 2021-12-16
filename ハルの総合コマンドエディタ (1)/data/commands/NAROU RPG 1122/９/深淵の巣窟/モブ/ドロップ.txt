@@ -1,0 +1,1 @@
+/give @p minecraft:fire_charge 1 0 {display:{Name:"’n–‚Ì‰Š"}}

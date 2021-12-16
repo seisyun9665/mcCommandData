@@ -1,0 +1,1 @@
+/give @p minecraft:stone 1 0 {display:{Name:"サイレントイシ"}}

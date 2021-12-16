@@ -1,0 +1,1 @@
+/give @p minecraft:emerald 1 0 {display:{Name:"Åòaê∂ñΩÇÃÇ®éÁÇË"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1120378126l,UUIDMost:1120378126l,Operation:0,AttributeName:"generic.maxHealth",Amount:4d,Slot:"offhand"}]}

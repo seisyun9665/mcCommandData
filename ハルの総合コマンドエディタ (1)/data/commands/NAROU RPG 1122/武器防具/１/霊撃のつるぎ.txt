@@ -1,0 +1,1 @@
+/give @p minecraft:golden_sword 1 0 {display:{Name:"˜d—ìŒ‚‚Ì‚Â‚é‚¬"},ench:[{id:7s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1595640709l,UUIDMost:1595640709l,Operation:0,AttributeName:"generic.attackDamage",Amount:5d,Slot:"mainhand"}]}

@@ -1,0 +1,1 @@
+/give @p minecraft:glowstone_dust 1 0 {display:{Name:"—~‚Ì»•²‡V"},ench:[{id:51s,lvl:0s}],HideFlags:1}

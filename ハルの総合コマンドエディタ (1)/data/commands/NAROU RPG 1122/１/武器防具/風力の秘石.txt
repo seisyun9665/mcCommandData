@@ -1,0 +1,1 @@
+/give @p minecraft:dye 1 10 {display:{Name:"˜r•——Í‚Ì”éÎ"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1243400962l,UUIDMost:1243400962l,Operation:0,AttributeName:"generic.attackDamage",Amount:1d,Slot:"offhand"}]}

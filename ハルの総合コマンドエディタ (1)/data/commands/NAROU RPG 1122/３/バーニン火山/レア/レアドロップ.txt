@@ -1,0 +1,1 @@
+/give @p minecraft:iron_helmet 1 0 {display:{Name:"グマグマヘルメット"},ench:[{id:1s,lvl:2s},{id:34s,lvl:2s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1472916058l,UUIDMost:1472916058l,Operation:0,AttributeName:"generic.armor",Amount:4d,Slot:"legs"},{Name:"HaruEditor",UUIDLeast:1472916058l,UUIDMost:1472916058l,Operation:0,AttributeName:"generic.maxHealth",Amount:2d,Slot:"legs"}]}

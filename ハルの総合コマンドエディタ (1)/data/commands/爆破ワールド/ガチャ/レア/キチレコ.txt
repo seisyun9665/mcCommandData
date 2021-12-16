@@ -1,0 +1,1 @@
+/give @p minecraft:record 1 13 {display:{Name:"ÉLÉ`ÉåÉR"},ench:[{id:19s,lvl:1s},{id:18s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:44072939l,UUIDMost:44072939l,Operation:0,AttributeName:"generic.armor",Amount:3d,Slot:"offhand"}]}

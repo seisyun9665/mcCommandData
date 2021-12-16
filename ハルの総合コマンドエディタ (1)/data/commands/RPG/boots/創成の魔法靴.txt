@@ -1,0 +1,1 @@
+/give @p minecraft:leather_boots 1 0 {display:{Name:"˜6˜l˜o‘n¬‚Ì–‚ŒC",Lore:["˜rg—pÒ‚ÌƒŒƒxƒ‹‚É‰‚¶‚Ä¬’·‚·‚éŒC"],color:16777215},Unbreakable:1b,RepairCost:100000,ench:[{id:51s,lvl:10000s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1119507508l,UUIDMost:1119507508l,Operation:0,AttributeName:"generic.attackDamage",Amount:0d,Slot:"feet"}],HideFlags:35}

@@ -1,0 +1,1 @@
+/give @p minecraft:stick 1 0 {display:{Name:"ホームランバット"},ench:[{id:19s,lvl:10s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1123996042l,UUIDMost:1123996042l,Operation:0,AttributeName:"generic.attackDamage",Amount:5d,Slot:"mainhand"},{Name:"HaruEditor",UUIDLeast:1123996042l,UUIDMost:1123996042l,Operation:0,AttributeName:"generic.attackSpeed",Amount:-3d,Slot:"mainhand"}]}

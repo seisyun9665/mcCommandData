@@ -1,0 +1,1 @@
+/give @p minecraft:dye 1 4 {display:{Name:"§d高エネルギー結晶体",Lore:["§r§7インベントリに入れた状態で修繕台を右クリックで使用。","§r§7低確率でメインハンドに持ったアイテムに修繕を付与する。"]},ench:[{id:34s,lvl:1s}],HideFlags:1}

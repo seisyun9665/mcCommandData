@@ -1,0 +1,1 @@
+/give @p minecraft:stone_sword 1 130 {display:{Name:"˜d˜lôŒ•",Lore:["˜3‹­—ó‚Èô‚¢‚ğh‚µ‚½Œ•B","˜3a‚Á‚½Ò‚É‹‘å‚È‘¹¸‚ğ—^‚¦‚é‚ªA","˜3“¯‚É‚±‚ÌŒ•‚à¸‚í‚ê‚éB"]},RepairCost:9999,ench:[{id:16s,lvl:200s},{id:19s,lvl:10s}]}

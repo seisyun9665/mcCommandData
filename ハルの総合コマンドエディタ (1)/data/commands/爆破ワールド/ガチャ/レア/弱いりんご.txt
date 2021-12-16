@@ -1,0 +1,1 @@
+/give @p minecraft:apple 1 0 {display:{Name:"Žã‚¢‚è‚ñ‚²"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1547255754l,UUIDMost:1547255754l,Operation:0,AttributeName:"generic.attackDamage",Amount:10d,Slot:"mainhand"}]}

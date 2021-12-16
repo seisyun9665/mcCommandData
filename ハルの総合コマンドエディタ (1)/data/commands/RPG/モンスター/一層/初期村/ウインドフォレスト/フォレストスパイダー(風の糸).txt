@@ -1,0 +1,1 @@
+/summon spider ~0 ~0 ~0 {CustomName:"フォレストスパイダー",Health:26f,Attributes:[{Name:"generic.maxHealth",Base:26d},{Name:"generic.attackDamage",Base:3d}],ArmorItems:[{id:"minecraft:experience_bottle",Count:1b,Damage:0s},{},{tag:{display:{Name:"風の糸"}},id:"minecraft:string",Count:1b,Damage:0s},{}],ArmorDropChances:[1f,0f,0.6f,0f]}

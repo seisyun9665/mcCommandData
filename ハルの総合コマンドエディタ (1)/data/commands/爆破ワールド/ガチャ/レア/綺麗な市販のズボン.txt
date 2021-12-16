@@ -1,0 +1,1 @@
+/give @p minecraft:leather_leggings 1 0 {display:{Name:"ãY—í‚ÈŽs”Ì‚ÌƒYƒ{ƒ“",color:12632256},ench:[{id:1s,lvl:2s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:3836391l,UUIDMost:3836391l,Operation:0,AttributeName:"generic.armor",Amount:3d,Slot:"legs"},{Name:"HaruEditor",UUIDLeast:3836391l,UUIDMost:3836391l,Operation:0,AttributeName:"generic.maxHealth",Amount:4d,Slot:"legs"}]}

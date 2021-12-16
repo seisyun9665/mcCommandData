@@ -1,0 +1,1 @@
+/give @p minecraft:apple 1 0 {display:{Name:"_ˆó‚Ì‰ÊÀ‡U"},ench:[{id:51s,lvl:0s}],HideFlags:1}

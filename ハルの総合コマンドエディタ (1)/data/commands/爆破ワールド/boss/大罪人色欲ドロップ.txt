@@ -1,0 +1,1 @@
+/give @p minecraft:red_flower 1 3 {display:{Name:"F—~‚Ì”’‰Ô"},ench:[{id:51s,lvl:0s}]}

@@ -1,0 +1,1 @@
+/give @p minecraft:leather_chestplate 1 0 {display:{Name:"ブラックンローブ",color:0},ench:[{id:34s,lvl:16s},{id:0s,lvl:2s},{id:4s,lvl:2s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:840629988l,UUIDMost:840629988l,Operation:0,AttributeName:"generic.armor",Amount:7d,Slot:"chest"}]}

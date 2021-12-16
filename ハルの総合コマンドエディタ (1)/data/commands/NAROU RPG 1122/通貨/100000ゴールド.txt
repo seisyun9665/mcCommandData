@@ -1,0 +1,1 @@
+/give @p minecraft:diamond_block 1 0 {display:{Name:"˜r100000ƒS[ƒ‹ƒh"}}

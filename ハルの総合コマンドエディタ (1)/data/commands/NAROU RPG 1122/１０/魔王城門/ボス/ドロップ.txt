@@ -1,0 +1,1 @@
+/give @p minecraft:red_glazed_terracotta 1 0 {display:{Name:"ƒI[ƒK‚ÌS‘Ÿ"}}

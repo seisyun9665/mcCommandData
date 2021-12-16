@@ -1,0 +1,1 @@
+/give @p minecraft:spider_eye 1 0 {display:{Name:"–‚’wå‚Ì–Ú"}}

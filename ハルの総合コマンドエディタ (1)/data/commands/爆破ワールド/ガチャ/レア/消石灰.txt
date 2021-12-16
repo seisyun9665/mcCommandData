@@ -1,0 +1,1 @@
+/give @p minecraft:sugar 1 0 {display:{Name:"ÁÎŠD"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:577832467l,UUIDMost:577832467l,Operation:0,AttributeName:"generic.maxHealth",Amount:4d,Slot:"offhand"}]}

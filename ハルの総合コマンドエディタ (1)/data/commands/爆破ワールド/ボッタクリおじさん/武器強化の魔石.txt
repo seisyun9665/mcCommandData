@@ -1,0 +1,1 @@
+/give @p minecraft:redstone 1 0 {display:{Name:"§c§l武器強化の魔石",Lore:["§r強化可能な武器をオフハンドに持ち、","§rこの魔石を手に持って投げることで武","§r器を強化できる。"]},ench:[{id:0s,lvl:0s}],HideFlags:1}

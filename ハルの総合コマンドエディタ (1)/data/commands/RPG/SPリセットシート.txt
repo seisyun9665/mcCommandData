@@ -1,0 +1,1 @@
+give @p minecraft:paper 1 0 {display:{Name:"§a§lSP初期化チケット",Lore:["§rSHIFT長押しで使用","§rスキルポイントを初期化する"]},ench:[{id:51s,lvl:0s}],HideFlags:1}

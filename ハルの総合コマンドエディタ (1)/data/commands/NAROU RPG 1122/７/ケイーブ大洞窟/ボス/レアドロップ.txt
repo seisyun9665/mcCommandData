@@ -1,0 +1,1 @@
+/give @p minecraft:leather_chestplate 1 0 {display:{Name:"ケイーブプロテクター",color:8421504},ench:[{id:34s,lvl:7s},{id:0s,lvl:7s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:709936765l,UUIDMost:709936765l,Operation:0,AttributeName:"generic.armor",Amount:8d,Slot:"chest"}]}

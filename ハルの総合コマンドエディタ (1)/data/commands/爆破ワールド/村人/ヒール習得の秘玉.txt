@@ -1,0 +1,1 @@
+/give @p minecraft:spawn_egg 1 0 {display:{Name:"˜e˜lƒXƒLƒ‹yƒq[ƒ‹zK“¾‚Ì”é‹Ê",Lore:["˜rg—p‚·‚é‚Æ˜b˜lƒXƒLƒ‹yƒq[ƒ‹z˜r‚ªK“¾‚Å‚«‚é"]},ench:[{id:34s,lvl:0s}],HideFlags:1,EntityTag:{Team:"zombie",CustomName:"HEAL",Silent:1b,NoAI:1b,ActiveEffects:[{Id:14b,Amplifier:1b,Duration:1000000,ShowParticles:0b}],id:"silverfish"}}

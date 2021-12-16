@@ -1,0 +1,1 @@
+/give @p minecraft:cake 1 0 {display:{Name:"˜l˜fÜ–¡ŠúŒÀØ‚ê‚Ì”ü–¡‚µ‚»‚¤‚ÈƒP[ƒL"},ench:[{id:71s,lvl:3s},{id:10s,lvl:3s},{id:17s,lvl:2s},{id:18s,lvl:2s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:312417951l,UUIDMost:312417951l,Operation:0,AttributeName:"generic.attackDamage",Amount:4d,Slot:"mainhand"}]}

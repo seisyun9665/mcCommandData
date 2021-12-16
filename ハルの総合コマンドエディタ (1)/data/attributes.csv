@@ -1,0 +1,11 @@
+generic.maxHealth,最大体力
+generic.followRange,探索範囲
+generic.knockbackResistance,ノックバック耐性
+generic.movementSpeed,移動速度
+generic.attackDamage,攻撃力
+generic.armor,防具防御力
+generic.armorToughness,防具強度
+generic.attackSpeed,攻撃速度(プレイヤー)
+generic.luck,運(プレイヤー)
+horse.jumpStrength,ジャンプ力(馬)
+zombie.spawnReinforcements,増援(ゾンビ)

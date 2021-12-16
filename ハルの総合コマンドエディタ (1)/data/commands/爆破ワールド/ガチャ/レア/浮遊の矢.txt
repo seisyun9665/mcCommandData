@@ -1,0 +1,1 @@
+/give @p minecraft:tipped_arrow 16 0 {display:{Name:"•‚—V‚Ì–î"},CustomPotionEffects:[{Id:25b,Amplifier:5b,Duration:1,ShowParticles:1b}]}

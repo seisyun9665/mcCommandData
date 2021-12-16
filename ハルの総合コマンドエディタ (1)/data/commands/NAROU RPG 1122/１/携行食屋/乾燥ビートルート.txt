@@ -1,0 +1,1 @@
+/give @p minecraft:beetroot 1 0 {display:{Name:"§r乾燥ビートルート",Lore:["§7乾燥加工されたビートルート。","§7固く食べづらいが値段は安い。"]}}

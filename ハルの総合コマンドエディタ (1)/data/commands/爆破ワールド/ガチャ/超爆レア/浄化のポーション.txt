@@ -1,0 +1,1 @@
+/give @p minecraft:lingering_potion 1 0 {display:{Name:"§b§l浄化のポーション[神級]",Lore:["§r生物を癒やしアンデットを浄化する魔法が込められたポーション"]},CustomPotionEffects:[{Id:6b,Amplifier:5b,Duration:6000,ShowParticles:1b}],CustomPotionColor:16711680}

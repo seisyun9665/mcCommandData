@@ -1,0 +1,1 @@
+/give @p minecraft:spawn_egg 1 0 {display:{Name:"§f§lガチャの秘玉",Lore:["§7使用するとランダムで強力なアイテムが手に入る§1かもしれない"]},ench:[{id:51s,lvl:0s}],HideFlags:1,EntityTag:{CustomName:"gatya",DeathTime:0s,Silent:1b,Health:1f,Attributes:[{Name:"generic.maxHealth",Base:1d}],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:20,ShowParticles:0b}],id:"silverfish"}}

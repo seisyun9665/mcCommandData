@@ -1,0 +1,1 @@
+/give @p minecraft:melon 1 0 {display:{Name:"ŒŒ“÷ƒƒƒ“"},ench:[{id:18s,lvl:2s},{id:16s,lvl:2s}]}

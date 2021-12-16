@@ -1,0 +1,1 @@
+/give @p minecraft:carrot_on_a_stick 1 0 {display:{Name:"§6§l爆聖の杖",Lore:["§r右クリックで使用","§ｒTPを§l10回復§rする"]},ench:[{id:61s,lvl:10s}],HideFlags:1}

@@ -1,0 +1,1 @@
+/give @p minecraft:iron_shovel 1 0 {display:{Name:"§r§bアメディオエストック"},ench:[{id:34s,lvl:5s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:852116l,UUIDMost:852116l,Operation:0,AttributeName:"generic.attackDamage",Amount:6.5d,Slot:"mainhand"},{Name:"HaruEditor",UUIDLeast:852116l,UUIDMost:852116l,Operation:0,AttributeName:"generic.attackSpeed",Amount:-1.5d,Slot:"mainhand"}]}

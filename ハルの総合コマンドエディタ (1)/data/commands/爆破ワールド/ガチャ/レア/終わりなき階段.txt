@@ -1,0 +1,1 @@
+/give @p minecraft:sandstone_stairs 1 0 {display:{Name:"I‚í‚è‚È‚«ŠK’i"},ench:[{id:51s,lvl:1s},{id:51s,lvl:1s},{id:51s,lvl:1s},{id:51s,lvl:1s},{id:51s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:125106368l,UUIDMost:125106368l,Operation:0,AttributeName:"generic.movementSpeed",Amount:0.1d,Slot:"offhand"}]}

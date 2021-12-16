@@ -1,0 +1,1 @@
+/give @p minecraft:golden_boots 1 0 {display:{Name:"ブラックンブーツ"},ench:[{id:34s,lvl:3s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1439173646l,UUIDMost:1439173646l,Operation:0,AttributeName:"generic.movementSpeed",Amount:0.015d,Slot:"feet"},{Name:"HaruEditor",UUIDLeast:1439173646l,UUIDMost:1439173646l,Operation:0,AttributeName:"generic.armor",Amount:3d,Slot:"feet"}]}

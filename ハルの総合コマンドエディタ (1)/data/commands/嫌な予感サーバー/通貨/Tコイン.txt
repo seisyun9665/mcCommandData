@@ -1,0 +1,1 @@
+/give @p minecraft:gold_nugget 1 0 {display:{Name:"T ƒRƒCƒ“"},ench:[{id:51s,lvl:0s}],HideFlags:1}

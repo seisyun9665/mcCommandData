@@ -1,0 +1,1 @@
+/give @p minecraft:repeater 1 0 {display:{Name:"ギミクリピーター"}}

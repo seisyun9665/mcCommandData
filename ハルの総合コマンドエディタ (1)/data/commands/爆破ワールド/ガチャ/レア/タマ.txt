@@ -1,0 +1,1 @@
+/give @p minecraft:ender_pearl 2 0 {display:{Name:"ƒ^ƒ}"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:644490652l,UUIDMost:644490652l,Operation:1,AttributeName:"generic.movementSpeed",Amount:0.1d,Slot:"mainhand"}]}

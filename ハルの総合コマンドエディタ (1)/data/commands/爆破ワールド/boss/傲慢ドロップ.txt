@@ -1,0 +1,1 @@
+/give @p minecraft:firework_charge 1 0 {display:{Name:"˜ü–‚Ì×‹…",Lore:["˜ü–‚ÌŠ´î‚ª—û‚èŒÅ‚Ü‚Á‚Ä‚Å‚«‚½Š´î‚Ì‹…"]},ench:[{id:51s,lvl:0s}]}

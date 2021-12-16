@@ -1,0 +1,1 @@
+/give @p minecraft:birch_stairs 1 0 {display:{Name:"ステイアーリンク"}}

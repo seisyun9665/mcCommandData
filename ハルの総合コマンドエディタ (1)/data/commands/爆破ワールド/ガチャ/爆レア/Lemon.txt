@@ -1,0 +1,1 @@
+/give @p minecraft:poisonous_potato 1 0 {display:{Name:"˜e˜l˜oLemon"},ench:[{id:16s,lvl:5s},{id:18s,lvl:2s},{id:20s,lvl:2s},{id:17s,lvl:2s}]}

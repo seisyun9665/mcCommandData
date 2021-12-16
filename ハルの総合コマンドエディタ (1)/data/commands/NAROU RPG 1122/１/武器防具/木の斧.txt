@@ -1,0 +1,1 @@
+/give @p minecraft:wooden_axe 1 0 {display:{Name:"ÅòrñÿÇÃïÄ"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:625458043l,UUIDMost:625458043l,Operation:0,AttributeName:"generic.attackDamage",Amount:6d,Slot:"mainhand"},{Name:"HaruEditor",UUIDLeast:625458043l,UUIDMost:625458043l,Operation:0,AttributeName:"generic.attackSpeed",Amount:-3.2d,Slot:"mainhand"}]}

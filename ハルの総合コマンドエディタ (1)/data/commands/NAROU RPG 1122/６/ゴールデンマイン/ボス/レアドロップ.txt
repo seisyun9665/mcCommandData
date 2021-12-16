@@ -1,0 +1,1 @@
+/give @p minecraft:diamond_helmet 1 0 {display:{Name:"“Vã‚ÌˆÀ‘S–Xq"},ench:[{id:34s,lvl:3s},{id:0s,lvl:3s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1778506036l,UUIDMost:1778506036l,Operation:0,AttributeName:"generic.armor",Amount:4d,Slot:"head"}]}

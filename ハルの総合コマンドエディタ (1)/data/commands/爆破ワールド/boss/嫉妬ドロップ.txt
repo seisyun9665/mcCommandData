@@ -1,0 +1,1 @@
+/give @p minecraft:dye 1 13 {display:{Name:"¹“i‚Ì×‹…",Lore:["¹“i‚ÌŠ´î‚ª—û‚èŒÅ‚Ü‚Á‚Ä‚Å‚«‚½Š´î‚Ì‹…"]},ench:[{id:51s,lvl:1s}]}

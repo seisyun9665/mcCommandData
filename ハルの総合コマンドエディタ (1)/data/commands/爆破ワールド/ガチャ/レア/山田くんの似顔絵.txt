@@ -1,0 +1,1 @@
+/give @p minecraft:potato 1 0 {display:{Name:"ŽR“c‚­‚ñ‚ÌŽ—ŠçŠG"},ench:[{id:17s,lvl:-5s},{id:7s,lvl:-5s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:987187420l,UUIDMost:987187420l,Operation:1,AttributeName:"generic.knockbackResistance",Amount:1d,Slot:"mainhand"}]}

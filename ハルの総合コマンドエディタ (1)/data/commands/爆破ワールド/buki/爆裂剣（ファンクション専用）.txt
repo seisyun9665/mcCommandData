@@ -1,0 +1,1 @@
+/give @p minecraft:golden_sword 1 0 {display:{Name:"˜c˜l”š—ôŒ•˜r",Lore:["˜7”š—ôa‚è ‡T","˜6˜l”š—ô‚Ì—Í˜r‚ğ“Z‚Á‚½˜5–‚Œ•˜r","˜ra‚é‚Æ˜c”š—ô˜r‚ğŠª‚«‹N‚±‚·"]},RepairCost:35,ench:[{id:34s,lvl:4s},{id:70s,lvl:2s},{id:19s,lvl:3s},{id:71s,lvl:3s},{id:16s,lvl:4s},{id:17s,lvl:2s}],HideFlags:16,CanPlaceOn:["minecraft:lapis_block","minecraft:tnt"]}

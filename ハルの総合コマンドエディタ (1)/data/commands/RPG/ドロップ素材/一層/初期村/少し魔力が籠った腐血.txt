@@ -1,0 +1,1 @@
+/give @p minecraft:beetroot 1 0 {display:{Name:"­‚µ–‚—Í‚ªâÄ‚Á‚½•…ŒŒ"}}

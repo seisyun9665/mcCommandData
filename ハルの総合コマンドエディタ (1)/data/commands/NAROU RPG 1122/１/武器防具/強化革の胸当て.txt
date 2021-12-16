@@ -1,0 +1,2 @@
+/give @p minecraft:leather_chestplate 1 0 {display:{Name:"˜r‹­‰»Šv‚Ì‹¹“–‚Ä"},ench:[{id:0s,lvl:1s},{id:34s,lvl:1s}],AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:2043297633l,UUIDMost:2043297633l,Operation:0,AttributeName:"generic.armorToughness",Amount:2d,Slot:"chest"},{Name:"HaruEditor",UUIDLeast:2043297633l,UUIDMost:2043297633l,Operation:0,AttributeName:"generic.armor",Amount:4d,Slot:"chest"}]}
+ƒ{ƒXƒ‚ƒu‘fŞ–h‹ï

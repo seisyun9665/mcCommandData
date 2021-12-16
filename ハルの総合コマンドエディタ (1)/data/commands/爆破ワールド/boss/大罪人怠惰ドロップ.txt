@@ -1,0 +1,1 @@
+/give @p minecraft:glass_bottle 1 0 {display:{Name:"‘Ó‘Ä‚Ì‹ó•r"},ench:[{id:51s,lvl:0s}]}

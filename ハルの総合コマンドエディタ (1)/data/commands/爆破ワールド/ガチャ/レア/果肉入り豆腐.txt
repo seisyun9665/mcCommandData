@@ -1,0 +1,1 @@
+/give @p minecraft:gold_ore 1 0 {display:{Name:"‰Ê“÷“ü‚è“¤•…"},AttributeModifiers:[{Name:"HaruEditor",UUIDLeast:1423096342l,UUIDMost:1423096342l,Operation:0,AttributeName:"generic.armor",Amount:2d,Slot:"offhand"},{Name:"HaruEditor",UUIDLeast:1423096342l,UUIDMost:1423096342l,Operation:0,AttributeName:"generic.maxHealth",Amount:2d,Slot:"offhand"}]}

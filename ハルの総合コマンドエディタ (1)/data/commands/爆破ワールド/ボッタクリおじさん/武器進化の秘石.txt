@@ -1,0 +1,1 @@
+/give @p minecraft:nether_star 1 0 {display:{Name:"§b§l武器進化の秘石",Lore:["§r強化可能な武器をオフハンドに持ち、","§rこの魔石を手に持って投げることで武","§r器を進化できる。"]}}

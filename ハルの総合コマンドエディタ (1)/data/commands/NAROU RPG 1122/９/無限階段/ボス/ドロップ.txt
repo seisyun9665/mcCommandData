@@ -1,0 +1,1 @@
+/give @p minecraft:daylight_detector 1 0 {display:{Name:"ステイアライト"}}
